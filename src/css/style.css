@@ -1,0 +1,110 @@
+body.modo-escuro {
+    background-color: black;
+    color: #f5f5f5;
+}
+
+.modo-escuro .div1 {
+    background-color: #212121;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.button1 {
+    border: transparent;
+    background-color: transparent;
+    margin-left: 78%;
+}
+
+.a2:hover {
+
+    color: white;
+    border-radius: 5px;
+
+    border-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+    background-color: white;
+}
+
+.a1 {
+    background-color: #32CD32;
+}
+
+.a1:hover {
+    background-image: url(src/img/xbox1.png);
+}
+
+
+a:active {
+    background-color: green;
+}
+
+.Xbox {
+    width: 10px;
+    margin-top: -3px;
+}
+
+.Xbox1 {
+    height: 45px;
+}
+
+.navbar2 {
+    background-color: #32CD32;
+}
+
+.enb {
+    margin-left: 30px;
+}
+
+h1 {
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+    align-items: center;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+
+.div1 {
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+
+}
+
+.img2 {
+    width: 75%;
+}
+
+body {
+    background-color: #F8F8FF;
+}
+
+.claro {
+    width: 30px;
+    height: 30px;
+}
+
+
+
+header .imagem-botao-sol {
+
+    transition: 0.2s ease-in-out;
+
+
+
+}
